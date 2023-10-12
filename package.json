@@ -1,0 +1,30 @@
+{
+  "name": "react-toggle-value",
+  "version": "0.1.0",
+  "description": "React custom hook to toggle value between two given values",
+  "type": "module",
+  "main": "index.js",
+  "files": [
+    "index.*"
+  ],
+  "keywords": [
+    "hooks",
+    "react",
+    "toggle"
+  ],
+  "author": {
+    "name": "Jitender Bansal",
+    "url": "https://github.com/bansal"
+  },
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "devDependencies": {
+    "@types/react": "^18.2.20",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.1.6"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
